@@ -1,0 +1,9 @@
+C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\feed-products\capterra.yaml
+C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\Import.exe
+C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\Import.dll
+C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\Import.deps.json
+C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\Import.runtimeconfig.json
+C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\Import.pdb
+C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\AutoMapper.dll
+C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\CommandLine.dll
+C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\YamlDotNet.dll

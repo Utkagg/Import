@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Import</id>
+    <version>1.0.0</version>
+    <authors>Import</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Users\aggarutk\source\repos\Import\Import\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\feed-products\capterra.yaml" target="tools\net6.0\any\feed-products\capterra.yaml" />
+    <file src="C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\Import.dll" target="tools\net6.0\any\Import.dll" />
+    <file src="C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\Import.deps.json" target="tools\net6.0\any\Import.deps.json" />
+    <file src="C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\Import.runtimeconfig.json" target="tools\net6.0\any\Import.runtimeconfig.json" />
+    <file src="C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\Import.pdb" target="tools\net6.0\any\Import.pdb" />
+    <file src="C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\AutoMapper.dll" target="tools\net6.0\any\AutoMapper.dll" />
+    <file src="C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\CommandLine.dll" target="tools\net6.0\any\CommandLine.dll" />
+    <file src="C:\Users\aggarutk\source\repos\Import\Import\bin\Debug\net6.0\publish\YamlDotNet.dll" target="tools\net6.0\any\YamlDotNet.dll" />
+  </files>
+</package>
