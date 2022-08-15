@@ -1,7 +1,7 @@
 # Import
 Import product data from files
 
-cd import
+Go to import folder using, cd import
 TO INSTALL
 dotnet tool install --global --add-source ./nupkg import
 
